@@ -169,7 +169,7 @@ Số frame in theo CVAT (bắt đầu từ 0). Trong gt.txt, frame_id = frame CV
 
 ### B1 — Hai người đi sát
 
-Hai track bonus B1 do bạn tự chọn theo đề bài: MOT ID 3 (CVAT track 2) và MOT ID 7 (CVAT track 6). Bạn đã kiểm tra và không phát hiện ID switch. Cả hai người bước ra từ trong nhà; người 7 chỉ xuất hiện sau vài frame đầu.
+Hai track bonus B1 tự chọn theo đề bài: MOT ID 3 (CVAT track 2) và MOT ID 7 (CVAT track 6). Đã kiểm tra và không phát hiện ID switch. Cả hai người bước ra từ trong nhà; người 7 chỉ xuất hiện sau vài frame đầu.
 
 ### B2 — So cách đặt keyframe
 
